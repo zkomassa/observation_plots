@@ -1,5 +1,5 @@
 astropy==2.0.2
-Basemap
+Basemap==1.0.7
 ephem==3.7.5.3
 futures==3.1.1
 html5lib==0.999999999
